@@ -8,7 +8,7 @@ The backend was developed using PHP, while the frontend was styled using SCSS. T
 
 <h2> 
   Lessons Learned & Areas for Improvement
-<h2>Lessons Learned & Areas for Improvement</h2>
+</h2>
 
 <p><strong>Code Reusability:</strong> Today I realize that a significant portion of the code could be refactored to improve the overall architecture by following the DRY (Don't Repeat Yourself) principle.</p>
 
